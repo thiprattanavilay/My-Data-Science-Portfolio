@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Thip Rattanavialy 
+# Welcome to My Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/thiprattanavilay/My-Data-Science-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I have over 17 years of IT experience in field of Network and System Infrastructure including Cloud computing, 6 years in Data Analytics focused on processing and analyzing large amount of data using Hadoop (Mahout, Hive, PIG), Python, R, MS Excel, MS Access, MS SQL, SAS, Kafka, Zookeeper, Matlab. Passion in Machine Learning, Data/Text Mining, Statistical Analysis & Predictive Modeling. Efficient in: data acquisition, storage, analysis, integration, predictive modeling, logistic regression, decision trees, data mining methods, forecasting, factor analysis, cluster analysis, ANOVA and other advanced statistical techniques.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This portfolio provides my journey into Data Science. Data science is the process of using algorithms, methods and systems to extract knowledge and insights from structured and unstructured data. 
 
-### Markdown
+You can also find my latest work on [my main GitHub repo](https://github.com/thiprattanavilay?tab=repositories).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Intro/Objective
+The purpose of this portfolio is a collection of all the data science projects throughout my journey into Data Sciense. In these Data Science journey, I have conduct several data science projects from origin to presentation. I have gather data, then prepare, clean, analyze, and present the analysis to an audience in a recorded video/presentation.
 
-```markdown
-Syntax highlighted code block
+### -- My Data Science Projects:
 
-# Header 1
-## Header 2
-### Header 3
+1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
+2. Covid 19 Data Visualisation
+3. Covid 19 Vaccination Visualisation
+4. Infographic
+5. Titanic case study
+6. Blood Donation Prediction
+7. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
+8. Air flight Safety 
+9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
+10. [Real Estate Investment & California Price Prediction](https://github.com/thiprattanavilay/DSC680/tree/main/Project03/Week9)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Resources 
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Tableau](https://www.tableau.com/learn/articles/free-public-data-sets)
+* [Government Open Data](https://www.data.gov/)
+* [Datahub](https://datahub.io/collections)
+* [University of California Irvine for ML](https://archive.ics.uci.edu/ml/datasets.php)
+* [NASA Earth Data](https://earthdata.nasa.gov/)
+* [Federal Aviation Data](https://www.faa.gov/data_research/aviation_data_statistics/)
+* [Justice and Crime datasets](https://www.justice.gov/open/open-data)
 
-**Bold** and _Italic_ and `Code` text
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* Random Forest
+* Linear Regression
+* KNN
+* CRISP Model
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+** My Contacts: [Thip Rattanavilay](mailto:trattanavilay@my365.bellevue.edu) - [Github Repo](https://github.com/thiprattanavilay?tab=repositories)**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thiprattanavilay/My-Data-Science-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Feel free to contact me with any questions or if you are interested in contributing!
