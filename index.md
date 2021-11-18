@@ -13,14 +13,14 @@ The purpose of this portfolio is a collection of all the data science projects t
 
 ### -- My Data Science Projects:
 
-1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final_LACrimes_v2.ipynb)
-2. Covid 19 Data Visualisation
-3. Covid 19 Vaccination Visualisation
-4. Infographic
-5. Titanic case study
-6. Blood Donation Prediction
+1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/tree/main/week_12/Completed_Final_Project)
+2. [Covid 19 Data Visualisation](https://github.com/thiprattanavilay/dsc540/tree/main/Week11&12/Project)
+3. [Hotel Cancellation Prediction](https://github.com/thiprattanavilay/dsc550/tree/main/WEEK11%2612)
+4. [Data Analysis Modeling](https://github.com/thiprattanavilay/dsc500/tree/main/week12)
+5. [Computer Gaming Addiction](https://github.com/thiprattanavilay/dsc500/tree/main/week9) 
+6. [Blood Donation Prediction](https://github.com/thiprattanavilay/dsc630/tree/main/WEEK10/Project%20Finished)
 7. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
-8. Air flight Safety 
+8. [Air flight Safety](https://github.com/thiprattanavilay/dsc640/tree/main/WEEK9_10) 
 9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
 10. [Real Estate Investment & California Price Prediction](https://github.com/thiprattanavilay/DSC680/tree/main/Project03/Week9)
 
