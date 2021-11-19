@@ -1,4 +1,4 @@
-# Thip Rattanavialy 
+# Thip Rattanavilay 
 # My Data Science Portfolio
 
 ## About Me
