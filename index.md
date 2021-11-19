@@ -1,4 +1,4 @@
-# Thip Rattanavialy 
+# Thip Rattanavilay 
 # Welcome to My Data Science Portfolio
 
 ## About Me
@@ -53,7 +53,7 @@ The purpose of this portfolio is a collection of all the data science projects t
 
 ## Contact
 
-* My Contacts: [Thip Rattanavilay](mailto:trattanavilay@my365.bellevue.edu) 
-* My Github Repo:[Github Repo](https://github.com/thiprattanavilay?tab=repositories)
+* My Contacts/Email: [Thip Rattanavilay](mailto:trattanavilay@my365.bellevue.edu) 
+* My Github Repo: [Github Repo](https://github.com/thiprattanavilay?tab=repositories)
 
 * Feel free to contact me with any questions or if you are interested in contributing!
