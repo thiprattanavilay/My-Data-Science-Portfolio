@@ -13,16 +13,16 @@ The purpose of this portfolio is a collection of all the data science projects t
 
 ### -- My Data Science Projects:
 
-1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/tree/main/week_12/Completed_Final_Project)
-2. [Covid 19 Data Visualisation](https://github.com/thiprattanavilay/dsc540/tree/main/Week11&12/Project)
-3. [Hotel Cancellation Prediction](https://github.com/thiprattanavilay/dsc550/tree/main/WEEK11%2612)
-4. [Data Analysis Modeling](https://github.com/thiprattanavilay/dsc500/tree/main/week12)
-5. [Computer Gaming Addiction](https://github.com/thiprattanavilay/dsc500/tree/main/week9) 
-6. [Blood Donation Prediction](https://github.com/thiprattanavilay/dsc630/tree/main/WEEK10/Project%20Finished)
-7. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week1/)
-8. [Air flight Safety](https://github.com/thiprattanavilay/dsc640/tree/main/WEEK9_10) 
+1. [Crimes in the City of Los Angeles Prediction](https://github.com/thiprattanavilay/dsc530/blob/main/week_12/Completed_Final_Project/RattanavilayThip_DSC530_Final.pdf)
+2. [Covid 19 Data Visualisation](https://github.com/thiprattanavilay/dsc540/blob/main/Week11%2612/Project/RattanavilayThip_Project_Milestone_5_Final_Summary.pdf)
+3. [Hotel Cancellation Prediction](https://github.com/thiprattanavilay/dsc550/blob/main/WEEK11%2612/RattanavilayThip_11_2_Final_Project_Case_Study_Report.pdf)
+4. [Data Analysis Modeling](https://github.com/thiprattanavilay/dsc500/blob/main/week12/rattanavilay-assignment-12.2-exercises.pdf)
+5. [Computer Gaming Addiction](https://github.com/thiprattanavilay/dsc500/blob/main/week9/rattanavilay-9.3-Project-Milestone-3-final.pdf) 
+6. [Blood Donation Prediction](https://github.com/thiprattanavilay/dsc630/blob/main/WEEK10/Project%20Finished/ThipRattanavilay_Project_Milestone_5_Final_Paper.pdf)
+7. [Cryptocurrency Price Speculation & Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project02/Week8_Present_Project_1_Final/RattanavilayThip_Project_2_Milestone_4_Cryptocurrency_Price_Speculation_%26_Prediction_Final.pdf)
+8. [Air flight Safety](https://github.com/thiprattanavilay/dsc640/blob/main/WEEK9_10/RattanavilayThip_5_3_Final_Project_5_Summary.pdf) 
 9. [Disney Movie Gross Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project01/WEEK3/RattanavilayThip_Project_1_Draft_Milestone_3.pdf)
-10. [Real Estate Investment & California Price Prediction](https://github.com/thiprattanavilay/DSC680/tree/main/Project03/Week12_Final_Project/Final_Report_%26_Presentation)
+10. [Real Estate Investment & California Price Prediction](https://github.com/thiprattanavilay/DSC680/blob/main/Project03/Week12_Final_Project/Final_Report_%26_Presentation/Final_Report_Q%26A_Project_3_Milestone_4_RattanavilayThip.pdf)
 
 
 ### Resources 
